@@ -2,7 +2,7 @@
     font-family: 'Thinking Of Betty';
     font-style: normal;
     font-weight: normal;
-    src: local('Thinking Of Betty'), url('Thinking_of_Betty.woff') format('woff');
+    src: local('Thinking Of Betty'), url('fonts/Thinking_of_Betty.woff') format('woff');
     }
 /* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
@@ -381,7 +381,7 @@ a{
     }
     /* Middle */
     .b img{
-        height: 170px;
+        height: 190px;
     }
     /* container2 */
     .image1{
